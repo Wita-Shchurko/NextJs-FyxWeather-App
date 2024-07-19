@@ -79,6 +79,7 @@ const Home = () => {
                 width: "auto",
                 height: "5rem",
               }}
+							unoptimized
             />
           </div>
           <Input 
