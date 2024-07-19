@@ -1,6 +1,6 @@
 # FyxWeather - Next.js + TypeScript
 
-## [🔴DEMO](https://next-js-fyx-weather-p3cfa63bu-witas-projects.vercel.app/)
+## [🔴DEMO](https://next-js-fyx-weather-app.vercel.app/)
 
 A website for viewing the weather forecast.
 
